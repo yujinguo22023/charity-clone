@@ -46,7 +46,7 @@ const About = () => {
               
               <div className="my-12">
                 <img 
-                  src="/images/ocean-policy.jpg" 
+                  src="https://images.unsplash.com/photo-1498511133332-ff2e79764768?q=80&w=2070&auto=format&fit=crop"
                   alt="Team discussing ocean conservation policies" 
                   className="w-full h-auto rounded-xl shadow-lg"
                 />

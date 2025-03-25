@@ -20,35 +20,35 @@ const WhatWeDo = () => {
       id: 'climate-solutions',
       title: 'Climate Solutions',
       description: 'We work to develop and promote solutions to reduce greenhouse gas emissions and adapt to climate change.',
-      image: '/images/climate-solutions.jpg',
+      image: 'https://images.unsplash.com/photo-1593829668372-41913a356991?q=80&w=1970&auto=format&fit=crop',
       link: '/what-we-do/climate-solutions'
     },
     {
       id: 'biodiversity',
       title: 'Biodiversity Conservation',
       description: 'We work to protect and restore biodiversity in terrestrial, freshwater and marine ecosystems.',
-      image: '/images/biodiversity.jpg',
+      image: 'https://images.unsplash.com/photo-1472396961693-142e6e269027?q=80&w=1952&auto=format&fit=crop',
       link: '/what-we-do/biodiversity'
     },
     {
       id: 'environmental-rights',
       title: 'Environmental Rights',
       description: 'We advocate for the right of all Canadians to a healthy environment, now and for the future.',
-      image: '/images/environmental-rights.jpg',
+      image: 'https://images.unsplash.com/photo-1531972111231-7482a960e109?q=80&w=2071&auto=format&fit=crop',
       link: '/what-we-do/environmental-rights'
     },
     {
       id: 'renewable-energy',
       title: 'Renewable Energy Transition',
       description: 'We work to accelerate the transition to clean, renewable energy sources.',
-      image: '/images/renewable-energy.jpg',
+      image: 'https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2072&auto=format&fit=crop',
       link: '/what-we-do/renewable-energy'
     },
     {
       id: 'urban-forest',
       title: 'Urban Sustainability',
       description: 'We work to create more sustainable, livable urban environments.',
-      image: '/images/urban-forest.jpg',
+      image: 'https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=2070&auto=format&fit=crop',
       link: '/what-we-do/urban-sustainability'
     }
   ];

@@ -26,7 +26,7 @@ const Blog = () => {
       date: "April 15, 2023",
       author: "David Suzuki",
       category: "Climate",
-      image: "/images/climate-solutions.jpg",
+      image: "https://images.unsplash.com/photo-1593829668372-41913a356991?q=80&w=1970&auto=format&fit=crop",
       slug: "climate-change-time-to-act"
     },
     {
@@ -36,7 +36,7 @@ const Blog = () => {
       date: "March 22, 2023",
       author: "Jane Smith",
       category: "Conservation",
-      image: "/images/ocean-policy.jpg",
+      image: "https://images.unsplash.com/photo-1498511133332-ff2e79764768?q=80&w=2070&auto=format&fit=crop",
       slug: "protecting-our-oceans"
     },
     {
@@ -46,7 +46,7 @@ const Blog = () => {
       date: "February 10, 2023",
       author: "Michael Chen",
       category: "Biodiversity",
-      image: "/images/urban-forest.jpg",
+      image: "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=2070&auto=format&fit=crop",
       slug: "urban-forests-natures-solution"
     },
     {
@@ -56,7 +56,7 @@ const Blog = () => {
       date: "January 5, 2023",
       author: "Sarah Johnson",
       category: "Energy",
-      image: "/images/renewable-energy.jpg",
+      image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2072&auto=format&fit=crop",
       slug: "renewable-energy-revolution"
     },
     {
@@ -66,7 +66,7 @@ const Blog = () => {
       date: "December 12, 2022",
       author: "David Suzuki",
       category: "Biodiversity",
-      image: "/images/biodiversity.jpg",
+      image: "https://images.unsplash.com/photo-1472396961693-142e6e269027?q=80&w=1952&auto=format&fit=crop",
       slug: "biodiversity-crisis"
     },
     {
@@ -76,7 +76,7 @@ const Blog = () => {
       date: "November 30, 2022",
       author: "Alex Thompson",
       category: "Environmental Rights",
-      image: "/images/environmental-rights.jpg",
+      image: "https://images.unsplash.com/photo-1531972111231-7482a960e109?q=80&w=2071&auto=format&fit=crop",
       slug: "environmental-rights-foundation"
     }
   ];

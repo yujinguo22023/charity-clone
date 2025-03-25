@@ -28,7 +28,7 @@ const Hero = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ 
-          backgroundImage: 'url(/images/hero-image.jpg)',
+          backgroundImage: 'url(https://images.unsplash.com/photo-1610890690846-5149750c8634?q=80&w=2071&auto=format&fit=crop)',
           backgroundPosition: 'center 30%'
         }}
       >

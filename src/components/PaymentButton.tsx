@@ -126,7 +126,7 @@ const PaymentButton: React.FC<PaymentButtonProps> = ({ amount: initialAmount }) 
         )}
       </div>
       
-      <PayPalScriptProvider options={{ "client-id": clientId, currency: "USD" }}>
+      <PayPalScriptProvider options={{ clientId: clientId, currency: "USD" }}>
         <PayPalButtons
           style={{ layout: "vertical", shape: "rect" }}
           createOrder={handleCreateOrder}
